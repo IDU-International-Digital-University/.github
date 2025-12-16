@@ -1,6 +1,5 @@
 # 🌐 Akrom Rustamov – Student at IDU
 
-![IDU Banner](https://via.placeholder.com/1200x300?text=International+Digital+University)
 
 Hi! I'm **Akrom Rustamov**, a student at **IDU – International Digital University** (Foundation Year).  
 I am passionate about programming, learning languages, and building projects in **C++** and web technologies.
