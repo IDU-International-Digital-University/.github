@@ -2,18 +2,7 @@
 
 
 Hi! I'm **Akrom Rustamov**, a student at **IDU – International Digital University** (Foundation Year).  
-I am passionate about programming, learning languages, and building projects in **C++** and web technologies.
-
----
-
-## 🎓 My Foundation Year Studies
-- 📝 Professional English  
-- 🗾 Japanese Language  
-- 💻 Programming Principles  
-- 🔢 Computational Mathematics  
-- 📊 Business Management  
-
-My main focus on GitHub: **C++ homework and practice projects**.
+I am passionate about programming, learning languages, and building projects in any kind of languages and technologies.
 
 <!-- 
 ## ⚡ Projects
@@ -30,7 +19,6 @@ My main focus on GitHub: **C++ homework and practice projects**.
 - 💼 LinkedIn: [Akrom Rustamov](https://www.linkedin.com/in/akrom-rustamov-255b372b7/)  
 - 📱 Telegram: [@archive_songs](https://t.me/archive_songs)  
 - 📸 Instagram: [rustamovakromjon327](https://www.instagram.com/rustamovakromjon327/)  
-- 🏫 IDU Website: [idu.uz](https://www.idu.uz/ru)  
 
 ---
 
